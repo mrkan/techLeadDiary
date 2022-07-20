@@ -92,6 +92,7 @@ Read out aloud -
 I am responsible for how I feel  
 I am responsible for my choices  
 I am responsible for my behavior  
+I am responsible for their consistency  
 -
 
 
@@ -103,25 +104,26 @@ Remind yourself of the self-bashing characteristic number 3 that aided me to cal
 
 >*"Who looks outside, dreams; who looks inside, awakes" - Carl Jung*
 
-Now go back to the three enabler statements and read them one by one and answer the questions below. And before you go there I will make the disclaimer that makes or breaks this journey for each one us. While the simple alternative is actually simple to state, internalizing it is quite different affair. The answers lie in different themes of science. 
+~~Now go back to the three enabler statements and read them one by one and answer the questions below. And before you go there~~ I will make the disclaimer that makes or breaks this journey for each one us. While the simple alternative is actually simple to state, internalizing it is quite different affair. For some it takes years, for others it's decades.  
 
+"It's difficult, but that's because it is valuable. By starting early, the power of compunding will bear it's fruit"
+  
 Here's the **Call for Action**
 
-By deliberate attention and practice on a set of virtues, that belong to me, the very virtues that can be learnt and perfected by understanding the exact science behind it, I permanently set out on a journey that improves the quality of existence on all fronts - personal, team and org culture.
+By deliberate attention and practice on a set of virtues that belong to me, the very virtues that can be learnt and perfected by understanding the exact science behind them, I permanently set out on a journey that improves the quality of existence on all fronts - personal, team and org culture.
 -
 
 
  **HOW** we can go about achieving it forms the following sections of the primer.
 
+With this we hit the first pitstop. This is where you choose - to abort or to read further. If it's the first, then you and I owe nothing to one another.  
+Have a good life. Ciao.
 
- ## The theory
+For the latter, thanks for trusting. I promise to make this read worthwhile.
 
-### The three actors 
-SLC, SLT, Org
+## Grade 2 - Know yourself (The bias theories)
 
-
-
-
+## Grade 3 - Re-wire (but how)
 
 
 
