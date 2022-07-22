@@ -18,7 +18,9 @@ Each one of us knowledge worker already holds the key to unlock our full potenti
 Let's contemplate.
 
 ### Who is this primer for?
-For every individual who spends significant hours of their daily life at a workplace. From freshers to seasoned masters.
+There are 2 criterias. 
+Firstly, For every individual who spends significant hours of their daily life at a workplace. From freshers to seasoned masters.  
+Secondly, this is not for skimmers but for audience with a little patience and are willing to read at a snail's pace. Because it's that gap between the words that'll give you the true worth.
 
 
 ### What is this primer about?
@@ -96,7 +98,7 @@ I am responsible for their consistency
 -
 
 
-For those who feel perenially anxious at the workplace, read it out aloud till it gives you goosebumps.
+For those who feel perenially powerless at the workplace, read it out aloud till it gives you goosebumps.
 
 Now I know what your brain is telling you... Oh, you know what I know this, this is just pulp content. Oh, you sure know it and maybe it is pulp content.  
 But pause. Take a deep breath.  
@@ -106,7 +108,7 @@ Remind yourself of the self-bashing characteristic number 3 that aided me to cal
 
 ~~Now go back to the three enabler statements and read them one by one and answer the questions below. And before you go there~~ I will make the disclaimer that makes or breaks this journey for each one us. While the simple alternative is actually simple to state, internalizing it is quite different affair. For some it takes years, for others it's decades.  
 
-"It's difficult, but that's because it is valuable. By starting early, the power of compunding will bear it's fruit"
+>*"It's difficult, but that's because it is valuable. By starting early, the power of compunding will bear it's fruit" - Me*
   
 Here's the **Call for Action**
 
