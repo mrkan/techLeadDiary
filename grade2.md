@@ -4,9 +4,10 @@
 
 We humans are a paradox when it comes to becoming our better selves.
 
-On one hand, is the action set who face a struggle, a positive one, who have a planned action, feedback mechanism, and a calibration that follows. The small victories are the small joys while success is just an outcome.  
-On the other hand is the dreamy set of people, who sit in inaction. All the optimism felt is based on a shallow hope of a comfortable, bright future. There is a struggle, of that of desperation, but with zero action. This set miss the green meadows, the smell of rain, the blue sky, and the love from the loving ones. The greatest high is to get in recluse and dream of safe place. It's addictive to such an extent without which one feels short breathedness and anxiety.  
-Both sets want to get better, both face struggle, both mindsets are addictive, except that the first set spring out of their beds more often, the dreamy set generally drag themselves out to work.
+On one hand, is the action set who face a struggle, a positive one. They are process oriented- they have a planned action, a small dent, a feedback mechanism, and a calibration step. The small victories are the small joys while the big success is just an outcome.  
+On the other hand is the dreamy set of people, who sit in inaction. All the optimism felt is based on a shallow hope of a comfortable, bright future. There is a struggle, of that of desperation, but with zero action. This set miss the green meadows, the smell of rain, the blue sky, and the love from the loving ones. Their greatest high is to get in a reclusive state and dream of a happy place. It's addictive to such an extent that without the reclusive exercise they feel anxious.  
+
+Both sets want to get better, both face struggle, both mindsets are addictive, except that the first set spring out of their beds happily more often, the dreamy set generally drag themselves out to work.
 
 I will restate a part of the disclaimer here again -  
 
@@ -23,9 +24,7 @@ It says it all! Growth is a choice that each one of us makes. Hence, there is al
 
 So let's be clear - From here onward, all references to *you* are to the action set of folks only. 
 
-~~Finding our best selves is a fundamental need for most of us. Yet we have incomplete attempts even when we committed whole-heartedly. Then what's missing?~~
 
-~~This juxtaposition/paradox brings me to my question on human curiosity - Starting out as babies with all that infinite curiosity, have we lost it to logic and reality as we grow up?Irrespective of the answer we still need to solve this paradox in our personal lives.~~
 Let's start by looking at the different kinds of challenges faced by our action set folks -  
 
 The focussed type:
@@ -40,26 +39,21 @@ Write it down here _______________
 
 What if I told you that this is all set to change? That you can alter many of the aspects of your personal life with some deliberate effort.  
 
-To get that kind of control needs a small inward journey - of your mind, heart and soul. It requires self-inquiry and based on your understanding, drawing boundaries that tell you your operating space. Obviously, it'll be different for each and everyone.
+To get that kind of control needs an inward journey - of your mind, heart and soul. It requires self-inquiry to make the deepest connection for knowing oneself is the founding ground on which tall, ever-lasting structures of personal character can be built. And we will need every inch of it to create a powerful, new world.  
 
-Knowing oneself is the founding ground on which tall structures of character can be built. And we will need every inch of it to create a powerful, new world.  
-
-~~Because this journey is inward implies it requires self-inquiry to question your core beliefs and to work on our biases. This also requires questioning our functioning system. And it also requires understanding that some of the aspects in our lives are not in our control.~~
 
 Remember why we are doing this.  
 We want to change our progress velocities, we want favourable outcomes, we want closures. 
 The more honest (not harsh, just plain honest) you are with yourself, the closer you are to knowing your true self.
 
-The exercise is to 
-Question your core beliefs and to understand your biases.
-Understand your functioning sorrounding and why it is the way it is.
-Understand your perimeter of what can be achieved.
+The exercise is to -  
+Question your core beliefs and to understand your biases.  
+Understand your functioning sorrounding and why it is the way it is.  
+Understand your perimeter of what can be achieved.  
 
-
- The following sections present the possibility to assess your personal space.  
- Think of it as a checklist to check your own biases and beliefs.  (A) for agree and (D) for disagree.  
  Make it a pen & paper activity to better engage your brain.  
- Goes without saying - take time to assess. Remember nobody's watching and it doesn't matter to anyone but you.  
+ It goes without saying - Find a quiet place and take time to assess.  
+ Remember nobody's watching and it shouldn't matter to anyone but you.  
 
 
 
