@@ -58,7 +58,7 @@ The following exercise is to -
 
 
 
-# The basic principles
+# The basic ones
 
 ## We are hardwired
 
@@ -94,12 +94,65 @@ Every event or situation in our life can be categorized as something that is in 
 Do you view events or situations in your life as being in your arc of control or not?
 If yes, has it created impact for you?
 
-## 
+## Finite time
+We all have only so many hours in the day. We all have only so many breaths to take, all in the end is infinitesimally small while of existence. We have so much to do with so little.
 
-## Reality
+What is your personal take about time?  
+How do you feel about the stoic nature of time?  
+Do you feel the rush to achieve things or do you feel there's ample time to reach anywhere?  
+What is your time mantra?
+
+## Reality is a perception
+Reality is only one version of the real thing. Hence reality of a person is a perception by nature. And hence is subjective. To state as an argument, different people put through the same situation will have different realities to state about them and the situation.
+
+Do you agree that your reality is a perception? That you think your reality is what you think what the society thinks about you.  
+
+See appendix XXX for Johari window.
+
+# The brainy ones
+
+## Patterns
+
+## Brain craves comfort
+
+## Motivation
+
+# Self ones
+
+## self-love
+
+## Personality and character
+
+## Expectations - 1
+
+## Privilige
+
+## Gratification
+
+## Candor
+
+## Decision making
+Objectivity, not when emotional 
+
+## Urgencies
 
 
-### The powerful negatives
+## Multiple intelligences
+We always have acumen for multiple stuff
+
+# Social ones
+
+## Maslow’s pyramid is real
+
+
+## Cogs effect
+
+## Expectations - 2
+
+## preach n practice
+How much of what you ask others to do, do you actually follow?
+
+# The powerful negatives
 
 Envy  
 Anger  
@@ -108,5 +161,5 @@ Guilt
 
 
 
-### SWOT
+# SWOTting
 
