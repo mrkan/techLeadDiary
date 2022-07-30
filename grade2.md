@@ -2,64 +2,101 @@
  Know yourself 
  =
 
+>*"Why am I not the best version of me now?  
+Why is it a tomorrow state?"*
+
+
 We humans are a paradox when it comes to becoming our better selves.
 
-On one hand, is the action set who face a struggle, a positive one. They are process oriented- they have a planned action, a small dent, a feedback mechanism, and a calibration step. The small victories are the small joys while the big success is just an outcome.  
-On the other hand is the dreamy set of people, who sit in inaction. All the optimism felt is based on a shallow hope of a comfortable, bright future. There is a struggle, of that of desperation, but with zero action. This set miss the green meadows, the smell of rain, the blue sky, and the love from the loving ones. Their greatest high is to get in a reclusive state and dream of a happy place. It's addictive to such an extent that without the reclusive exercise they feel anxious.  
+Education and free knowledge has got us a long distance. We are educated enough to know what we need to achieve, yet only a handful of us meet our goals.  
 
-Both sets want to get better, both face struggle, both mindsets are addictive, except that the first set spring out of their beds happily more often, the dreamy set generally drag themselves out to work.
+This fundamental issue needs to be introspected and a clear personal view must form. Let's say this is one of the essential steps to unlocking your fullest potential as action.
 
-I will restate a part of the disclaimer here again -  
+To make my point I will make a worldly argument -  
 
->*"... The thing about enabling is that it doesn't work till the one who's receiving it is convinced about the enablement. As a corollary, enabling works best when someone needs it as badly as oxygen..."*
+Look around, categorically there are three kinds of people - The achievers, the attemptors and the dreamers.  
 
-But who wouldn't want to be enabled you ask?
+Achievers are ones who identify something that they must accomplish, they set out and don't stop till they have achieved their goal. They take a moment to celebrate, then move on.  
 
-And I can't present a better suited thought
+The attemptors are the ones who identify a goal that they must accomplish, they set out and work hard, and sincerely, yet they fall short of the goal. They can claim glory for trying but none for completion and are often left feeling unfulfilled.
+ 
+The dreamers know that they must accomplish something yet lay in total inaction. Their elegant poise is based on a shallow hope of a comfortable, bright future. They feel a struggle, but only in their head, with zero actual action. They rarely live in the moment since their greatest high is to get in a reclusive state and dream of a happy place. It's addictive to such an extent that without the reclusive exercise they feel anxious.  
 
->*Change is inevitable, Growth is optional - John Maxwell*
+All of them want to get better, they all face struggle, they feel uneasy albeit for different reasons, their mindsets are addictive, and they all have their endorphin hits.  
+Hence,  
+The achiever feels superlative to the others, the attemptor finds glory in trying, because what matters is the effort more than the result, and the dreamer is already ahead of the achievers and attemptors in his happy place and already feels smart about not taking half of the shots that failed for them.  
+They are all unhappy too coz for the achiever there is never enough, for the attemptor can claim glory for trying but none for completion and is often left feeling unfulfilled and the dreamer, reality is always biting him.  
+In essence, **they are all equal to each other from their individual perspectives.** *  
+It's still fine as long as each is left alone. But our workplace is about collaboration and when you throw in this mix it creates a situation of mistrust, lack of sharing, bitterness, and a mindshare aggregation that slows us all down.  
+Look around you carefully, isn't it already there at your workplace?
 
+\* I'm allegating here that while (or if) you think you are an achiever, you might actually be an attemptor or just a dreamer. Some serious allegation it is.
 
-It says it all! Growth is a choice that each one of us makes. Hence, there is almost nothing this primer has to offer to the dreamy set. I doubt anybody else does. Except, if you, the dreamy one, are willing to consider migrating to the action set. I'm sure you may have good reasons of why you belong to the dreamy set, but you are aware that it's the path of dead-ends, right?  
+Understood... so what am I recommending?
+=
 
-So let's be clear - From here onward, all references to *you* are to the action set of folks only. 
-
-
-Let's start by looking at the different kinds of challenges faced by our action set folks -  
-
-The focussed type:
-*" I want to talk about the most fundamental problem that I face. I'm very clear about what I want to achieve. I want a healthy, balanced life, make good money, travel the world, all this without compromising on my tall career aspirations. I have taken efforts to write down what each of it means and I have specific goals that I have set. I start out by making time, putting in the effort, yet it all loses steam, and I end up with a pile of unfinished tasks. I don't give up, so I start over, only to have moved forward very little, in each iteration. It's tiring, I know I can do better!"*
-
-The effort type:
-*" I give life all that I have to offer, yet I feel that no one cares about me, no one's even noticing!"*
-
-
-What's your complaint?
-Write it down here _______________
-
-What if I told you that this is all set to change? That you can alter many of the aspects of your personal life with some deliberate effort.  
-
-To get that kind of control needs an inward journey - of your mind, heart and soul. It requires self-inquiry to make the deepest connection for knowing oneself is the founding ground on which tall, ever-lasting structures of personal character can be built. And we will need every inch of it to create a powerful, new world.  
+Take time to chart yourself.  
+Understand the forces that shape you.  
+Take control of those forces.  
+To get that kind of control needs an inward journey - of your mind, heart and soul. It requires self-inquiry to make the deepest connection. In knowing your true self is the founding ground on which tall, ever-lasting structures of personal character can be built. And we will need every inch of it to create a powerful, new world.  
+The new age leadership must start with the self.  
 
 
-Remember why we are doing this.  
-We want to change our progress velocities, we want favourable outcomes, we want closures. 
-The more honest (not harsh, just plain honest) you are with yourself, the closer you are to knowing your true self.
 
-The exercise is to -  
-Question your core beliefs and to understand your biases.  
-Understand your functioning sorrounding and why it is the way it is.  
-Understand your perimeter of what can be achieved.  
+The following exercise is to -  
+* Question your core beliefs and to understand your biases.  
+* Understand your functioning sorrounding and why it is the way it is.  
+* Understand your perimeter of what can be achieved.  
 
  Make it a pen & paper activity to better engage your brain.  
+
  It goes without saying - Find a quiet place and take time to assess.  
+
  Remember nobody's watching and it shouldn't matter to anyone but you.  
 
+ Be honest with yourself, it'll do you good.
 
 
-### The simple principles
 
+# The basic principles
 
+## We are hardwired
+
+>*"We are all born differently. Our brains work in different ways. Our muscles want to do different things. As such we have a propensity towards one thing or another."*
+
+You agree to this statement or do you believe we are all the same and only our conditioning makes us different? If so why you think so?
+
+## Conditioning 
+There are two types of conditioning. One is the social conditioning that we are all aware of in general that happens at home, school, workplace basically society at large.
+
+The other kind is the deliberate conditioning. This is where we control or alter our current wiring. See Appendix XXX for details.
+
+Were you aware about this before?  
+Can you write down 3 positive and 3 negative social conditioning that's happened to you?  
+Any situation where you had deliberately conditioned yourself?
+
+## Luck
+There are millions of different things in our daily lives that we assume are in auto-pilot or that we are controlling them. When in reality there is actually so little in our hands.  
+It only becomes evident when something sudden esp. an unwanted event happens to us.
+
+Do you agree that luck is involved in our lives more than we are aware of?  
+Do you dislike the term luck? Is it because it's overused, or used as an excuse or you are afraid of not being in control or something else?
+
+## Choice
+Choice can be viewed from two perspectives. One macroscopic, where choice implies, I can choose my destiny. The other, is at personal level, where choice means 'how I respond to an event is in my control'.  
+
+What is your take on both kinds of choice based on your life observations?  
+Have you had the chance to alter the course of events in your life because of your choices?  
+
+## Arc of control
+Every event or situation in our life can be categorized as something that is in our control or not in our control. Here control could also be influence. 
+
+Do you view events or situations in your life as being in your arc of control or not?
+If yes, has it created impact for you?
+
+## 
+
+## Reality
 
 
 ### The powerful negatives
@@ -67,6 +104,8 @@ Understand your perimeter of what can be achieved.
 Envy  
 Anger  
 Pressure  
+Guilt  
+
 
 
 ### SWOT

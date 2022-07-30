@@ -11,7 +11,6 @@ Order of files
 Intro, grade2, grade3, summary, Appendix
 
 
-We have biases to take care of which stagnate us, we need reality checks to course correct, we have an enticing pop culture to deal with, we have a science to understand which gives us exactness and objectivity, we need a goal clarity which comes with a deeper connection with ourselves.
 Pop culture - Know my purpose, happiness, 
 
 >*"You only live once"  
@@ -38,3 +37,7 @@ The ones to decide must be the ones closest to the working system.
 Kuotes
 =
 You are not alone
+
+
+Willingness as the largest deterent. Can we overcome it? - learning about blindspots.
+28/7 was a day of connecting with most team members. Realized high on willingness, ok on improvement.
