@@ -41,5 +41,28 @@ Obviously, the above is just to show how small changes yield
 We are all *'Work in progress'*
 
 
+**It's a process over an end goal**
 
 
+**NUTSHELL**
+
+**WHAT**
+A consistent work group
+
+**HOW**
+
+Know who you are. Have consensus with self. Commit to the oath.
+
+Organize your inner work space (OYIS)
+
+Identify the levels at which SLW (Self-led workspace) can be enabled. Set up SLW indicators.
+
+Contribute.
+
+Give and receive feedback.
+
+Inner measure of progress
+
+Keep what works, be aware of what needs to be pruned.
+
+Repeat.

@@ -5,6 +5,7 @@
 >*"Why am I not the best version of me now?  
 Why is it a tomorrow state?"*
 
+// Agenda : More often it's about the many small systemic things than just the what or why. Addressing those small things automatically propels us towards our why and whats. What are those systemic things?//
 
 We humans are a paradox when it comes to becoming our better selves.
 
@@ -102,6 +103,11 @@ How do you feel about the stoic nature of time?
 Do you feel the rush to achieve things or do you feel there's ample time to reach anywhere?  
 What is your time mantra?
 
+## Time as effort metric
+
+## Energy as an effort metric
+
+
 ## Reality is a perception
 Reality is only one version of the real thing. Hence reality of a person is a perception by nature. And hence is subjective. To state as an argument, different people put through the same situation will have different realities to state about them and the situation.
 
@@ -140,6 +146,10 @@ Objectivity, not when emotional
 ## Multiple intelligences
 We always have acumen for multiple stuff
 
+## Mindfull (self)
+Are you generally aware of how you feel?  
+Can you tell when you are happy, sad, angry, stressed, excited? Are you aware of these emotions when they are happening?
+
 # Social ones
 
 ## Maslow’s pyramid is real
@@ -147,10 +157,19 @@ We always have acumen for multiple stuff
 
 ## Cogs effect
 
-## Expectations - 2
-
 ## preach n practice
 How much of what you ask others to do, do you actually follow?
+
+## Mindfull (others)
+Are you aware of how people around you are feeling when in a small group?
+
+## Expectations - 2
+Do your loved ones know who you are and what you want to achieve and how much your dreams and goals mean to you?
+
+## What money means to you?
+
+## Maturity model - everything is in transition
+
 
 # The powerful negatives
 
