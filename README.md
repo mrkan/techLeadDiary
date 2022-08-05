@@ -41,3 +41,6 @@ You are not alone
 
 Willingness as the largest deterent. Can we overcome it? - learning about blindspots.
 28/7 was a day of connecting with most team members. Realized high on willingness, ok on improvement.
+
+
+People are motivated by self defined practices, pulled back by processes.
