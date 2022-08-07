@@ -44,4 +44,22 @@ What are the chances it will meet good success? Stats say it all.
 
 Look around you carefully, is it already there at your workplace?
 
-Which work type are you?
+There is another influencing way of presenting the differntly paced individuals at the workplace. 
+
+[Ability vs Willingness Matrix] (images/skill-will.png)
+
+
+
+Let's read this matrix together
+
+| Square | Combine | Description |
+| ------ | :-----: | ----------- |
+| 1  | LL  | Lowest possible contribution, why are they part of the job at hand? |
+| 2  | LM | Poor quality contributor |
+| 3  | LH | 'eagers', poor quality contributor |
+| 4 | ML | external motivation required for average-good contribution |
+| 5 | HL | external motivation required for average-good contribution |
+| 6 | MM | The majority, average-good contributions |
+| 7 | MH | 'eagers', average-good quality contributor |
+| 8 | HM | Star contributors, good-high quality contributor |
+| 9 | HH | Unicorn contributor, highest quality contribution |
