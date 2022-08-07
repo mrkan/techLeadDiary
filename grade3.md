@@ -1,11 +1,6 @@
-Grade 3 - Re-wire (but how)
+The Science
 =
 
-
-Template question 1: What changes are needed in my behavior?  
-
-The science  
-=
 
 On neuroscience - we can re-wire  
 brain

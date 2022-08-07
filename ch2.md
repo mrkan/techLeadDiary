@@ -45,21 +45,33 @@ What are the chances it will meet good success? Stats say it all.
 Look around you carefully, is it already there at your workplace?
 
 There is another influencing way of presenting the differntly paced individuals at the workplace. 
+The matrix looks similar to the skill-will matrix but it's adapted. In the debate for skills OR ability, I chose the latter to better represent one of the axes. For the simple reason that 'Skill' is very specific, 'Ability' expresses a broader range of strengths.
 
-[Ability vs Willingness Matrix] (images/skill-will.png)
+Also, this Matrix is to be treated more like a run time snapshot of a team working on a (set of) problem(s). We would all agree that modern day work demands working on complex issues usually bordering the edges of our knowledge and comfort. This impacts the representation of any individual differently i.e. a generally motivated person may find himself low on motivation because of a complex nature of work at hand.
 
-
+<p align="center">
+  <img src="images/skill-will.png" width="350" title="Ability-Willingness">
+</p>
 
 Let's read this matrix together
 
 | Square | Combine | Description |
 | ------ | :-----: | ----------- |
 | 1  | LL  | Lowest possible contribution, why are they part of the job at hand? |
-| 2  | LM | Poor quality contributor |
-| 3  | LH | 'eagers', poor quality contributor |
+| 2  | LM | 'eagers', Poor quality contributor, unfinished tasks/projects  |
+| 3  | LH | 'eagers', poor quality contributor, unfinished tasks/projects |
 | 4 | ML | external motivation required for average-good contribution |
 | 5 | HL | external motivation required for average-good contribution |
 | 6 | MM | The majority, average-good contributions |
-| 7 | MH | 'eagers', average-good quality contributor |
-| 8 | HM | Star contributors, good-high quality contributor |
+| 7 | MH | 'eagers', average-good quality contributor, unfinished tasks/projects |
+| 8 | HM | Star contributors, good to high quality contribution |
 | 9 | HH | Unicorn contributor, highest quality contribution |
+
+Individuals who lack the ability to learn, comprehend, implement complex issues make for the 1,2 and 3 types. They are eager to contribute but their work is generally half-baked and they need a lot of hand-holding to complete their tasks.
+
+Individuals in 4,5 have the abilities to solve complex problems but they lack the motivation to do so - maybe they are unhappy with their manager, or they are assigned a project that they didn't want, or they believe their compensation is not up to the mark.
+
+Individuals belonging to 6 and 7 are the maximum population moving the business world ahead. While 6 will finish their tasks aptly, 7 are at the risk of taking up more than what they can finish.
+
+8 and 9 are the star performers. They are highly learned, solid in their approach to problems and they are highly motivated. They complete their tasks and do some more, to leave the product in a better shape than before.
+

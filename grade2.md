@@ -1,7 +1,4 @@
 
- Know yourself 
- =
-
 >*"Why am I not the best version of me now?  
 Why is it a tomorrow state?"*
 

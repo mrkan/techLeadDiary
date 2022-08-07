@@ -7,8 +7,29 @@
 
 "It's difficult, but it's worthwhile. The power of compunding will bear it's fruit"
 
-Order of files
-Intro, grade2, grade3, summary, Appendix
+Table Of Contents  
+
+[Intro](Intro.md)  
+
+[work types](ch2.md)
+
+[Know yourself](grade2.md)
+
+[The Science](grade3.md)
+
+[AMOS](ch3.md)
+
+[Feedback](feedback.md)
+
+[Secret Ingredients](secretIngredients.md)
+
+[Rewire](rewire_howto.md)
+
+[Summary](summary.md)
+
+[FAQ](faq.md)  
+
+[Appendix](appendix.md)  
 
 
 Pop culture - Know my purpose, happiness, 
