@@ -32,9 +32,15 @@ The dreamers know that they must accomplish something yet lay in total inaction.
 
 All of them want to get better, they all face struggle, they feel uneasy albeit for different reasons, their mindsets are addictive, and they all have their endorphin hits -   
 The achiever feels superlative to the others with his victories, the attemptor finds glory in trying, because what matters is the effort more than the result, and the dreamer is already ahead of the achievers and attemptors in his happy place and already feels smart about not taking half of the shots that failed for them.  
-They are all unhappy too, coz for the achiever there is never enough, borderlining hoarding at times. The achiever is lonely too, for there a few like him. The attemptor is often left feeling unfulfilled, and the dreamer, deep down is aware that his reality is far from the living reality.  
+They are all unhappy too, coz for the achiever there is never enough, borderlining hoarding at times. The achiever is lonely too, for there a few like him, and the slow nature of things bore him. The attemptor is often left feeling unfulfilled, and the dreamer, deep down is aware that his reality is far from the living reality.  
 
-When the three come together, which is often the case because our workplace is about collaboration, there is an averaging of sorts that happens. Averaging of velocity, decision making, quality of conversations and so on. If not attended at the right time, this mashup creates an air of mistrust, lack of sharing, bitterness, and a spirit that loses glory.  
+The third type, the 'please-lead-me' folks are an equal deterrent to work enthusiasm. I have observed that people are here for many different reasons - some just want to do the hours and be back home because there is a bigger calling, some don't want to confront, some don't want to be told that their idea isn't the best, and the list goes on... As you will be guessing, this attitude benefits no one, and are generally mood killers for a larger group.
+
+
+When they all come together, which is often the case because our workplace is about collaboration, there is an averaging of sorts that happens - Averaging of velocity, decision making, quality of conversations and so on. If not attended at the right time, this mashup can create an air of mistrust, lack of sharing, bitterness, and a spirit that loses glory, eventually.  
+And this averaging culture is the white elephant in the room. Now you may paint the elephant red, feed it nutritious leaves, or stick golden wings, it's still a white elephant nonetheless. That's what it is right when the leadership tries to boost the motivation of the "white elephant".  
+
+What are the chances it will meet good success? Stats say it all.  
 
 Look around you carefully, is it already there at your workplace?
 
