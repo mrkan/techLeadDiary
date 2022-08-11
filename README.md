@@ -19,9 +19,11 @@ Table Of Contents
 
 [AMOS](ch3.md)
 
-[Feedback](feedback.md)
-
 [Secret Ingredients](secretIngredients.md)
+
+[The Mindset](Mindset.md)
+
+[Results matter](ResultsMatter.md)
 
 [Rewire](rewire_howto.md)
 
@@ -34,9 +36,7 @@ Table Of Contents
 
 Pop culture - Know my purpose, happiness, 
 
->*"You only live once"  
-"No, we only die once. We live everyday!"  
--Charlie and Snoopy* 
+
 
 
 
