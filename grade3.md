@@ -11,6 +11,12 @@ On positive psychology - CAMP
 sphere of control
 Flow, deep work, off days.
 
+https://positivepsychology.com/self-leadership/  
+Optimizing motivation includes the competency of adjusting one’s goal to become more appealing. This can be achieved by identifying an intrinsically motivating goal behavior and aligning the goal to one’s values and self-concept (Ryan & Deci, 2000).
+
+Optimizing motivation also means understanding the role of willpower, a finite resource but one that can be cultivated. Finally, this competency includes an awareness that we may not feel ready or confident when trying a new goal behavior. Instead, self-efficacy is developed by taking small, continuous steps toward the goal (Bandura, 1977).
+
+
 On Emotional intelligence -
 "self talk"
 
