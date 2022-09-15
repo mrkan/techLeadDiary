@@ -18,7 +18,7 @@ Being self-led demands the following -
 * Have and appreciate Candour
 * A Do-er.
 
-Character is a bunch of qualities that define an Individual. There is adequate literature on what a good, solid character demands. It's always a pleasure & honor to work with people with good character.
+Character is a bunch of qualities that define an Individual on the inside. There is adequate literature on what a good, solid character demands. Personality is what we see on the outside. How a person conducts him/herself in presence of others. Both are essential. It's always a pleasure & honor to work with people with good personality & character. 
 
 Being self-managed implies that one is in control of their own emotions, thoughts and responses thereof, especially in cases where conflicts arise. We seldom are educated in our upbringing about -
 * Managing our own expectations (with ourselves).
