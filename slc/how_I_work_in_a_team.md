@@ -1,9 +1,11 @@
 How I work in a team
 =
 
-Hey, I'm glad you are here. Here's a little primer on how I like to work in a team. Think of it as a quick enabler list that's generally boring and hard to discuss.  
-I'm generally consistent with it, so think of it as a snapshot from my brain.  
-Disclaimer - By stating these traits, I'm not claiming I have mastered them, I'm on my own journey too.
+Hey, I'm glad you are here. Here's a little primer on how I like to work in a team. Think of it as a quick enabler list that's generally boring to elaborate verbally and hard to discuss.  
+It has worked for me for many years, so it comes from first hand experience and I'm consistent with it. So think of it as a snapshot from my brain.  
+
+Disclaimer - By stating these traits, I'm not claiming I have mastered them, I'm on my own journey too.  
+The traits are age-agnostic - from freshers to the goldies, applicable to all.
 
 Self-Led
 =
@@ -26,14 +28,15 @@ Being self-managed implies that one is in control of their own emotions, thought
 
 Books, videos, trainings and workshops bring the opportunity of learning these aspects of psychology to the common man. 
 
-Personal producitivity is yet another topic that has become an easy access thing. You'll be amazed at the rich ideas that are available to improve productivity in our daily lives.
+Personal productivity is yet another topic that has become an easy access thing. You'll be amazed at the rich ideas that are available to improve productivity in our daily lives.
 
-Candour is that quality that can accelerate business decisions by manifold. The ability to speak one's mind and say something is right or not, is definitely the need of the hour. Albeit, *how it's said, matters!*
+Candour is that quality that can accelerate business decisions by manifold. The ability to speak one's mind and say something is right or not, is definitely the need of the hour. Albeit, *how it's said, matters!*  
+It also strengthens the idea of 'Bad news earlier the better' from anyone in the team.
 Candour deeply roots itself in the culture that we are raised in, and hence needs all the support in the system to get it going. Hence appreciating Candour, top-down, by actions when opportunity demands, is necessary.
 
-A Do-er is one who "takes tasks to closures". Not the one talking or thinking about something but who gets the job done.
+A Do-er is one who "takes tasks to closures". Not the one talking or thinking about something but who gets the job done. They also tend to be measured in time so you'll always here them put an end date to their current task (or a 'timeout' if unsure). Either way, they communicate it to the team early on.
 
-I would also like to believe that self-led people are generally aware of their strengths and weaknesses and are consistent with who they are and what they want out of life, although I haven't concluded on it yet.
+I would also like to believe that self-led people are generally aware of their strengths and weaknesses and are consistent with who they are and what they want from life, although I haven't concluded on it yet.
 
 
 I will now share 4 steps to achieving "self-leadership". Assume it will apply differently to each individual. 
