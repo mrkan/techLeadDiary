@@ -12,7 +12,7 @@ Self-Led
 I'm a die hard fan of anyone who is "self-led". It simply implies each one of us is leader by default and hence all our motives and actions align accordingly.  
 
 Being self-led demands the following -
-* Have/Present a good character.
+* Have a great character & present a good personality.
 * Be self-managed.
 * High on personal productivity
 * Have and appreciate Candour
