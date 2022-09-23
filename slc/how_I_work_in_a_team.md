@@ -34,7 +34,7 @@ Candour is that quality that can accelerate business decisions by manifold. The 
 It also strengthens the idea of 'Bad news earlier the better' from anyone in the team.
 Candour deeply roots itself in the culture that we are raised in, and hence needs all the support in the system to get it going. Hence appreciating Candour, top-down, by actions when opportunity demands, is necessary.
 
-A Do-er is one who "takes tasks to closures". Not the one talking or thinking about something but who gets the job done. They also tend to be measured in time so you'll always here them put an end date to their current task (or a 'timeout' if unsure). Either way, they communicate it to the team early on.
+A Do-er is one who "takes tasks to closures". Not the one talking or thinking about something but who gets the job done. They also tend to be measured in time so you'll always here them put an end date to their current task (or a **'timeout'** if unsure). Either way, they communicate it to the team early on. Have you heard of the *'Parkinson's law'* ?
 
 I would also like to believe that self-led people are generally aware of their strengths and weaknesses and are consistent with who they are and what they want from life, although I haven't concluded on it yet.
 
@@ -85,10 +85,12 @@ Build **TRUST**. First, by trusting your team members and simultaneously helping
 
 When backed by Trust, the following is easier to achieve for each team member -
 
-**Express** yourself exactly the way you have to. It requires one to organize his/her thoughts in a manner that the intended audience accepts the content. More often than not, negotiation skills and storytelling abilities are put to test and hence must be developed.
+**Express** yourself exactly the way you have to. It requires one to organize his/her thoughts in a manner that the intended audience accepts the content. More often than not, negotiation skills and storytelling abilities are put to test and hence must be developed.  
+I'm a big fan of UML diagrams, design docs, 1-slide ppt's and simple box diagrams. Gets the audience to start focussing on what's most important.
 
 Give **Feedback** where and when it matters. It will save you and your team mate(s) the countless hours of coffee banter with other colleagues. Giving feedback is saying *'Look, this matters. I care'*. If this is the attitude, then you have the golden short cut to getting your viewpoint through.  
 Receiving feedback is equally important, seeking for one occassionally is good.  
+
 Experience has taught me that better the trust, more informal the conversation can be, hence most effective the feedback turns out to be.
 
 Always **Align**. We may have all the debates but finally the best *business* idea will win (hopefully). Nonetheless, aligning with the team/business goal is a must. It makes sense to place yardsticks together to make sure that one's concern or the other's blindspot is addressed.
@@ -106,7 +108,9 @@ Wrapping it
 Self-led contributors are the future. Being self-led means, more control with the team, less of managers, lesser iterations, higher velocities, and yes, better engineered products.  
 With an highly aware & connected team, the chance to build good relationships and hence a sense of well-being increases.  
 That said, some of the traits are hard to find or build. For some it takes years. What matters is the effort to do so from early on. Compounding in time pays big dividends.  
-Finally, having well-receiving, self-managing, proactive people are infectious! Be one.
+Finally, having well-receiving, self-managing, proactive people are infectious! Be one.  
+
+Just a coffee or beer or lunch is fine and I'm willing to hear your philosophy of the same.
 
 
 Books to read 
@@ -115,3 +119,5 @@ Books to read
 
 Web links
 =
+
+https://www.atlassian.com/blog/productivity/what-is-parkinsons-law
